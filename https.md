@@ -1,5 +1,14 @@
 https
 ## Bitacora de octubre
+
+
+## 31 de octubre
+En la clase de hoy hemos estado hablado sobre la tierra y sus recursos, de como hace años todos los recursos eran mas abundantes y accesibles, y de como en estos ultimos años todos esos recursos estan empezando a escasear 
+ 
+## ¿la tierra es un sistema finito?
+Desde mi punto de vista es algo que es imposible saber ya que la tierra y el universos tienen muchas partes sin investigar  
+
+
 ## 24 de octubre 
 
 ## ¿hay un limite en la población humana?
