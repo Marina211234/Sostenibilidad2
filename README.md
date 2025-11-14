@@ -5,7 +5,7 @@
 ## Noviembre
 
 ### Día 14/11/2025
-
+![alt text](image.png)
 #### En la clase de hoy
 Hoy hemos estado hablando sobre las energías y la manera en que se extraen. Las dos principales fuentes de energía son: el sol y la energía nuclear. Estas son dos energías que nos aportan una gran variedad de ventajas para la supervivencia.
 
