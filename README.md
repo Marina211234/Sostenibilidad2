@@ -3,6 +3,40 @@
 ---
 
 ## Noviembre
+ ## Día 28/11/2025
+ ![alt text](circular.pge.webp)
+
+## En la clase de hoy
+
+Hoy hemos hablado sobre economía lineal y economía circular.
+Nos hemos enfocado en el tipo de economía que predominaba antes y que sigue presente hasta hoy: la economía lineal. Este modelo sigue estando presente en muchos de nuestros trabajos y hogares.
+
+Actualmente, se está implementando la economía circular en muchas rutinas, pero todavía queda un largo camino para que este modelo sea el predominante.
+
+Economía lineal: se basa en tomar → hacer → desechar.
+
+Consecuencias: impacto ambiental negativo, generación de grandes cantidades de residuos y necesidad de reciclaje.
+
+Economía circular: se basa en reducir → reutilizar → reciclar.
+
+Economía verde: es la más ecológica y busca minimizar el impacto ambiental a través de todas las actividades económicas.
+
+## Pregunta
+
+¿Y a mí qué me cuenta?
+El ecodiseño y las políticas colectivas o individuales me afectan directamente porque:
+
+Como consumidor: puedo elegir productos más sostenibles, que duren más y generen menos residuos.
+
+Como ciudadano: puedo apoyar y participar en iniciativas o leyes que fomenten el reciclaje, la reducción de residuos y el uso eficiente de recursos.
+
+En mi día a día: hábitos simples como separar la basura, reducir el consumo innecesario o reutilizar objetos contribuyen a una economía más circular.
+
+En otras palabras, lo que yo haga y lo que se haga de manera colectiva influye en el futuro del planeta y en la calidad de vida de todos.
+
+## Conclusión
+
+La transición de la economía lineal a la circular no solo depende de grandes empresas o políticas, sino también de nuestras decisiones diarias. Adoptar hábitos sostenibles, apoyar el ecodiseño y participar en iniciativas verdes nos permite reducir nuestro impacto ambiental y construir un futuro más responsable y ecológico.
 
 ### Día 14/11/2025
 ![alt text](image.png)
