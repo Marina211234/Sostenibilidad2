@@ -29,6 +29,7 @@ En general, esta evaluación me ha mostrado que siempre hay margen para mejorar.
 ![alt text](<Captura de pantalla (311).png>)
 
 ![alt text](<Captura de pantalla (312).png>)
+
 ## Noviembre
  ## Día 28/11/2025
  ![alt text](circular.pge.webp)
