@@ -1,7 +1,34 @@
 # Bitácora de Clases
 
 ---
+## Diciembre 
+## 05/12/2026
+# En la clase de hoy
+## ¿Cuanto pesas en el planeta? huella ecológica y huella de carbono
+Huella ecológica:
+Es la cantidad de recursos naturales que utilizamos y la cantidad de desechos que generamos. Representa el impacto que provocamos en el planeta, incluyendo el uso de energía, agua, alimentos, transporte y los residuos que producimos.
 
+Huella de carbono:
+Es la cantidad de gases de efecto invernadero —principalmente CO₂— que emitimos debido a nuestras actividades. Antes existía un equilibrio natural, pero los seres humanos estamos emitiendo CO₂ en una cantidad que acelera el proceso natural del clima, aumentando el calentamiento global. Esta huella ha ido incrementándose con los años.
+
+Huella digital:
+Hace referencia al rastro que dejamos cuando usamos herramientas tecnológicas: nuestras actividades en línea, búsqueda de información, redes sociales, datos que compartimos, etc.
+
+Estrategias de mitigación:
+Son acciones para reducir nuestro impacto: consumir responsablemente, ahorrar energía, reciclar, reutilizar, y compensar a la naturaleza aquello que extraemos de ella
+
+¿Cuál es mi huella de carbono?
+
+Después de realizar una encuesta sobre mi consumo y mis hábitos diarios, he podido reflexionar sobre el impacto que genero en el planeta. Aunque considero que no soy una persona especialmente consumista, el resultado muestra que mi huella de carbono es más alta de lo que esperaba.
+
+Esto me hace pensar que, aunque no compre en exceso, algunos de los materiales o productos que utilizo tienen un impacto ambiental elevado, ya sea por su proceso de fabricación, transporte o desecho. Por otro lado, me di cuenta de que mi consumo en transporte es bastante bajo, ya que solo utilizo el coche cuando es realmente necesario, lo cual ayuda a reducir mis emisiones.
+
+En general, esta evaluación me ha mostrado que siempre hay margen para mejorar. Puedo seguir reduciendo mi impacto optando por productos más sostenibles, evitando compras innecesarias y manteniendo hábitos responsables en mi día a día
+
+
+![alt text](<Captura de pantalla (311).png>)
+
+![alt text](<Captura de pantalla (312).png>)
 ## Noviembre
  ## Día 28/11/2025
  ![alt text](circular.pge.webp)
