@@ -2,6 +2,89 @@
 
 ---
 ## Diciembre 
+## 12/12/2025
+# En la clase de hoy 
+## Introducción
+
+Hoy hablamos sobre el cambio climático, un fenómeno que implica transformaciones profundas no solo a nivel ambiental, sino también social, económico y político. En el futuro, la competencia por los recursos naturales podría generar conflictos internacionales.
+
+## Evidencias del cambio climático
+
+La evidencia científica es inequívoca. El diagnóstico actual del sistema climático muestra:
+
+Aumento de la temperatura global.
+
+Alteraciones en los patrones climáticos (sequías, inundaciones, tormentas extremas).
+
+Derretimiento de glaciares y subida del nivel del mar.
+
+# Causas principales
+
+La mayor responsabilidad recae en el ser humano. El principal factor que impulsa el cambio climático son los gases de efecto invernadero (GEI), resultantes de actividades como:
+
+Producción de energía mediante combustibles fósiles.
+
+Industria y transporte.
+
+Agricultura intensiva.
+
+En resumen, la actividad humana es la principal causa.
+
+## Impactos en la población
+
+El cambio climático afecta directamente:
+
+La salud.
+
+La seguridad alimentaria.
+
+La disponibilidad de agua.
+
+Los movimientos migratorios.
+
+Esto genera lo que se conoce como una cascada de fallos, donde la alteración de un recurso provoca problemas en otros.
+
+Además, los costes económicos asociados a estos cambios aumentan cada año.
+
+## Geopolítica climática
+
+Los cambios en los recursos naturales transforman también la situación geopolítica. Países con acceso a energía limpia, agua o tierras fértiles tendrán ventajas, mientras que otros serán más vulnerables.
+
+## Políticas de mitigación
+
+Para reducir el impacto del cambio climático, se proponen políticas basadas en:
+
+Energías renovables.
+
+Movilidad sostenible.
+
+Eficiencia energética.
+
+Economía circular.
+
+El objetivo es lograr una transición hacia un desarrollo menos dañino para el planeta.
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+- Preguntas
+## ¿Cuál es el principal emisor de CO₂?
+
+El principal origen de las emisiones de CO₂ son los gases de efecto invernadero producidos por las actividades humanas, especialmente el sector energético y la quema de combustibles fósiles.
+
+## ¿Qué puedo hacer yo como programador para mitigar el cambio climático?
+
+
+
+- Optimización del uso energético: escribir código eficiente reduce el consumo de energía en servidores y dispositivos.
+
+- Buen uso de hardware y recursos en la nube: evitar procesos innecesarios disminuye el gasto eléctrico.
+
+- Promoción de tecnologías verdes: aplicaciones para ahorro energético, análisis ambiental, movilidad sostenible, etc.
+
+- Concienciación digital: fomentar prácticas sostenibles en tu entorno tecnológico.
+
+Cada acción suma hacia un cambio significativo.
 ## 05/12/2026
 # En la clase de hoy
 ## ¿Cuanto pesas en el planeta? huella ecológica y huella de carbono
