@@ -1,6 +1,135 @@
 # Bitácora de Clases
 
 ---
+# Bitácora de Clases
+
+---
+
+## Enero 
+
+## 09/01/2026
+## En la clase de hoy
+Contaminación y residuos
+
+Los residuos son restos o desechos que ya no utilizamos y tiramos a la basura. Cuando estos residuos no se gestionan correctamente, producen contaminación, que es la presencia de sustancias perjudiciales para el medio ambiente y los seres vivos.
+
+La contaminación está presente en nuestro entorno de muchas formas y una de las más importantes hoy en día es la provocada por la tecnología. El uso constante de aparatos electrónicos ha generado un gran aumento de la basura electrónica, que se ha convertido en uno de los mayores contaminantes actuales debido a los materiales tóxicos que contiene.
+
+Estos contaminantes pueden afectar a la salud humana, ya que algunos alteran el funcionamiento de las hormonas, que son las encargadas de regular y coordinar las funciones del cuerpo.
+
+Además, a través de la alimentación, los tóxicos pueden ir acumulándose en los organismos vivos, un proceso conocido como bioacumulación, que ocurre muchas veces sin que seamos conscientes de ello y puede causar efectos negativos a largo plazo.
+
+## Diciembre 
+## 12/12/2025
+# En la clase de hoy 
+## Introducción
+
+Hoy hablamos sobre el cambio climático, un fenómeno que implica transformaciones profundas no solo a nivel ambiental, sino también social, económico y político. En el futuro, la competencia por los recursos naturales podría generar conflictos internacionales.
+
+## Evidencias del cambio climático
+
+La evidencia científica es inequívoca. El diagnóstico actual del sistema climático muestra:
+
+Aumento de la temperatura global.
+
+Alteraciones en los patrones climáticos (sequías, inundaciones, tormentas extremas).
+
+Derretimiento de glaciares y subida del nivel del mar.
+
+# Causas principales
+
+La mayor responsabilidad recae en el ser humano. El principal factor que impulsa el cambio climático son los gases de efecto invernadero (GEI), resultantes de actividades como:
+
+Producción de energía mediante combustibles fósiles.
+
+Industria y transporte.
+
+Agricultura intensiva.
+
+En resumen, la actividad humana es la principal causa.
+
+## Impactos en la población
+
+El cambio climático afecta directamente:
+
+La salud.
+
+La seguridad alimentaria.
+
+La disponibilidad de agua.
+
+Los movimientos migratorios.
+
+Esto genera lo que se conoce como una cascada de fallos, donde la alteración de un recurso provoca problemas en otros.
+
+Además, los costes económicos asociados a estos cambios aumentan cada año.
+
+## Geopolítica climática
+
+Los cambios en los recursos naturales transforman también la situación geopolítica. Países con acceso a energía limpia, agua o tierras fértiles tendrán ventajas, mientras que otros serán más vulnerables.
+
+## Políticas de mitigación
+
+Para reducir el impacto del cambio climático, se proponen políticas basadas en:
+
+Energías renovables.
+
+Movilidad sostenible.
+
+Eficiencia energética.
+
+Economía circular.
+
+El objetivo es lograr una transición hacia un desarrollo menos dañino para el planeta.
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+- Preguntas
+## ¿Cuál es el principal emisor de CO₂?
+
+El principal origen de las emisiones de CO₂ son los gases de efecto invernadero producidos por las actividades humanas, especialmente el sector energético y la quema de combustibles fósiles.
+
+## ¿Qué puedo hacer yo como programador para mitigar el cambio climático?
+
+
+
+- Optimización del uso energético: escribir código eficiente reduce el consumo de energía en servidores y dispositivos.
+
+- Buen uso de hardware y recursos en la nube: evitar procesos innecesarios disminuye el gasto eléctrico.
+
+- Promoción de tecnologías verdes: aplicaciones para ahorro energético, análisis ambiental, movilidad sostenible, etc.
+
+- Concienciación digital: fomentar prácticas sostenibles en tu entorno tecnológico.
+
+Cada acción suma hacia un cambio significativo.
+## 05/12/2026
+# En la clase de hoy
+## ¿Cuanto pesas en el planeta? huella ecológica y huella de carbono
+Huella ecológica:
+Es la cantidad de recursos naturales que utilizamos y la cantidad de desechos que generamos. Representa el impacto que provocamos en el planeta, incluyendo el uso de energía, agua, alimentos, transporte y los residuos que producimos.
+
+Huella de carbono:
+Es la cantidad de gases de efecto invernadero —principalmente CO₂— que emitimos debido a nuestras actividades. Antes existía un equilibrio natural, pero los seres humanos estamos emitiendo CO₂ en una cantidad que acelera el proceso natural del clima, aumentando el calentamiento global. Esta huella ha ido incrementándose con los años.
+
+Huella digital:
+Hace referencia al rastro que dejamos cuando usamos herramientas tecnológicas: nuestras actividades en línea, búsqueda de información, redes sociales, datos que compartimos, etc.
+
+Estrategias de mitigación:
+Son acciones para reducir nuestro impacto: consumir responsablemente, ahorrar energía, reciclar, reutilizar, y compensar a la naturaleza aquello que extraemos de ella
+
+¿Cuál es mi huella de carbono?
+
+Después de realizar una encuesta sobre mi consumo y mis hábitos diarios, he podido reflexionar sobre el impacto que genero en el planeta. Aunque considero que no soy una persona especialmente consumista, el resultado muestra que mi huella de carbono es más alta de lo que esperaba.
+
+Esto me hace pensar que, aunque no compre en exceso, algunos de los materiales o productos que utilizo tienen un impacto ambiental elevado, ya sea por su proceso de fabricación, transporte o desecho. Por otro lado, me di cuenta de que mi consumo en transporte es bastante bajo, ya que solo utilizo el coche cuando es realmente necesario, lo cual ayuda a reducir mis emisiones.
+
+En general, esta evaluación me ha mostrado que siempre hay margen para mejorar. Puedo seguir reduciendo mi impacto optando por productos más sostenibles, evitando compras innecesarias y manteniendo hábitos responsables en mi día a día
+
+
+![alt text](<Captura de pantalla (311).png>)
+
+![alt text](<Captura de pantalla (312).png>)
 
 ## Enero 
 
