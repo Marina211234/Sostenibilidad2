@@ -9,7 +9,7 @@
 ## 16/01/2025
 ## En la clase de hoy 
 
-## objetivos de desarrollo sostenible agenda 2030 
+## Objetivos de desarrollo sostenible agenda 2030 ODS
 
 Se trata de una serie de objetivos sostenibles que se quieren alcanzar para reducir la contaminación. Desde mi punto de vista, se quieren conseguir demasiadas cosas de golpe, lo cual es imposible de lograr de un día para otro, pero sí creo que debemos empezar a trabajar en esos objetivos desde ya.
 
