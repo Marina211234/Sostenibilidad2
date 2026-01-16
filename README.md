@@ -1,24 +1,26 @@
 # Bitácora de Clases
 
 ---
-# Bitácora de Clases
+
 
 ---
 
 ## Enero 
+## 16/01/2025
+## En la clase de hoy 
+
 
 ## 09/01/2026
 ## En la clase de hoy
 Contaminación y residuos
 
-Los residuos son restos o desechos que ya no utilizamos y tiramos a la basura. Cuando estos residuos no se gestionan correctamente, producen contaminación, que es la presencia de sustancias perjudiciales para el medio ambiente y los seres vivos.
+Los residuos son restos o desechos que ya no utilizamos y tiramos a la basura. Cuando no se gestionan correctamente, provocan contaminación, que afecta tanto al medio ambiente como a los seres vivos. Hoy en día, una de las formas de contaminación más importantes es la causada por la tecnología, ya que el uso continuo de aparatos electrónicos ha aumentado mucho la basura electrónica. Este tipo de residuos contiene materiales tóxicos que resultan muy contaminantes.
 
-La contaminación está presente en nuestro entorno de muchas formas y una de las más importantes hoy en día es la provocada por la tecnología. El uso constante de aparatos electrónicos ha generado un gran aumento de la basura electrónica, que se ha convertido en uno de los mayores contaminantes actuales debido a los materiales tóxicos que contiene.
+Estos contaminantes pueden ser perjudiciales para la salud humana, porque algunos alteran el funcionamiento de las hormonas, que regulan distintas funciones del cuerpo. Además, a través de la alimentación, estos tóxicos pueden acumularse poco a poco en los organismos vivos, un proceso llamado bioacumulación, que muchas veces ocurre sin que nos demos cuenta y puede provocar efectos negativos a largo plazo.
 
-Estos contaminantes pueden afectar a la salud humana, ya que algunos alteran el funcionamiento de las hormonas, que son las encargadas de regular y coordinar las funciones del cuerpo.
+## ¿Por qué cambie mi ultimo telefono móvil?
 
-Además, a través de la alimentación, los tóxicos pueden ir acumulándose en los organismos vivos, un proceso conocido como bioacumulación, que ocurre muchas veces sin que seamos conscientes de ello y puede causar efectos negativos a largo plazo.
-
+Cambié mi último teléfono móvil por capricho, ya que el anterior tenía algunos defectos menores. La batería duraba menos y el altavoz tenía un pequeño fallo de fábrica. Aunque estos problemas se podían haber arreglado, decidí no hacerlo y comprar un móvil nuevo. Finalmente, vendí el teléfono antiguo y el comprador fue quien arregló los defectos.
 ## Diciembre 
 ## 12/12/2025
 # En la clase de hoy 
