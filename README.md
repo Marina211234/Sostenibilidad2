@@ -9,7 +9,15 @@
 ## 16/01/2025
 ## En la clase de hoy 
 
+## objetivos de desarrollo sostenible agenda 2030 
 
+Se trata de una serie de objetivos sostenibles que se quieren alcanzar para reducir la contaminación. Desde mi punto de vista, se quieren conseguir demasiadas cosas de golpe, lo cual es imposible de lograr de un día para otro, pero sí creo que debemos empezar a trabajar en esos objetivos desde ya.
+
+¿Por qué se hace esto?
+En 2015, la situación del planeta estaba empeorando a pasos gigantes, por lo que el estado decidió tomar cartas en el asunto y crear esta agenda para tratar de mejorarla.
+
+¿Se van a coseguir los objetivos  de desarrollo sostenible y porque?
+No se sabe si se van a conseguir todos los Objetivos de Desarrollo Sostenible, porque son metas muy ambiciosas y algunas dependen de cambios grandes en la forma en que vivimos y producimos. Sin embargo, se puede avanzar mucho si los gobiernos, las empresas y las personas trabajamos juntos, empezando por acciones pequeñas que sumen para alcanzar estos objetivos a largo plazo.
 ## 09/01/2026
 ## En la clase de hoy
 Contaminación y residuos
