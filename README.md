@@ -6,7 +6,18 @@
 ---
 
 ## Enero 
-## 16/01/2025
+## 23/01/2026
+## En la clase de hoy
+Plan de sostenibilidad empresarial 
+Los objetivos que se desarrollan para la realización de las actividades empresariales se fundamentan, principalmente, en las normas ISO 9000 e ISO 14000, que establecen criterios de calidad y gestión ambiental. La sostenibilidad no debe entenderse como una opción, sino como una condición necesaria para la supervivencia, ya que existe una clara ecodependencia: la economía depende de ecosistemas saludables y de sociedades funcionales.
+
+Actualmente, el planeta se encuentra en una situación de translimitación, habiéndose superado seis de los nueve límites planetarios, lo que convierte a la sostenibilidad en una respuesta imprescindible. Para ello, la anatomía de un plan de sostenibilidad exige la definición previa de acciones, el uso de indicadores clave de rendimiento (KPI) puesto que lo que no se mide no se puede mejorar y la elaboración de un informe de sostenibilidad que refleje los resultados obtenidos.
+
+¿Son greenwashing los planes de sostenibilidad que hemos comentado anteriormente?
+Los planes de sostenibilidad no son greenwashing cuando se aplican de verdad, con acciones claras, mediciones y resultados visibles.
+Sin embargo, sí lo son cuando solo se usan como discurso o publicidad, sin cambios reales en la empresa. 
+Lo importante no es decir que se es sostenible, sino demostrarlo con hechos.
+## 16/01/2026
 ## En la clase de hoy 
 
 ## Objetivos de desarrollo sostenible agenda 2030 ODS
